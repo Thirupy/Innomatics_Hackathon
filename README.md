@@ -1,4 +1,4 @@
-# ![Innomatics Hackathon](https://www.innomatics.in/wp-content/uploads/2023/01/Innomatics-Logo1.png)Hackathon
+# ![Innomatics Hackathon](https://www.innomatics.in/wp-content/uploads/2023/01/Innomatics-Logo1.png)
 
 This repository contains my solutions for the Innomatics Hackathon. The hackathon involved working with provided datasets and using **pandas** for data analysis and manipulation to solve the given questions.
 
@@ -56,16 +56,16 @@ The datasets provided for the hackathon include:
 
 Below are some screenshots of the analysis and visualizations:
 
-![Data Analysis Screenshot](path/to/screenshot1.png)
+![Data Analysis Screenshot](Asserts/Screenshot2.png)
 
 
-![Visualization Screenshot](path/to/screenshot2.png)
+![Visualization Screenshot](Asserts/Screenshot1.png)
 
 
 ## 📂 Repository Structure
 
 - `data/`: Contains the datasets provided for the hackathon.
-- `notebooks/`: Jupyter notebooks containing the solutions.
+- `Solutions.ipynb`: Jupyter notebooks containing the solutions.
 - `assets/`: Images and screenshots used in this `README.md`.
 - `README.md`: Project overview and setup guide.
 
